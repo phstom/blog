@@ -21,14 +21,14 @@ keywords: Markdown
 ### 超链接
 
 ```
-[码志](http://mazhuang.org)
+[宁静的海](https://phstom.github.io/)
 
-<http://mazhuang.org>
+<https://phstom.github.io/>
 ```
 
-[码志](http://mazhuang.org)  
+[宁静的海](https://phstom.github.io/)  
 
-<http://mazhuang.org>
+<https://phstom.github.io/>
 
 ### 列表
 
