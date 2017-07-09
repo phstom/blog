@@ -1,11 +1,11 @@
 # ---------------- #
 #   Main Configs   #
 # ---------------- #
-baseurl: 
-url: http://mazhuang.org/jekyll-theme-solid
+baseurl:
+url: https://phstom.github.io/
 date_format: "ordinal"
-title: jekyll-theme-solid
-author: Zhuang Ma 
+title: 海是倒过来的天
+author: phstom
 
 # ---------------- #
 #   RSS / Email    #

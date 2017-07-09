@@ -7,5 +7,8 @@ permalink: /links/
 ---
 
 <ul>
-<li><a href="http://mazhuang.org/">码志</a></li>
+<li><a href="http://www.njlrxx.com/">南京市聋人高级中学</a></li>
+</ul>
+<ul>
+<li><a href="http://ylr.tjut.edu.cn/">天津理工大学聋人工学院</a></li>
 </ul>
