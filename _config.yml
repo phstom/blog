@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://phstom.github.io/
+url: https://phstom.github.io
 date_format: "ordinal"
 title: 海是倒过来的天
 author: phstom
