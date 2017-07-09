@@ -6,17 +6,15 @@ keywords: phstom, 宁静的海
 permalink: /about/
 ---
 
-**Software Engineer at [Sogou, Inc.](http://www.sogou.com)**
+Pan Haishu
 
-Beijing City, China \| Computer Software
+Nanjing, China \| Computer science and technology
 
-*Education:* Wuhan Institute of Technology
-
-scholar, CS/IT
+*Education:* Tianjin University of Technology
 
 *Contact:* `print '%s@%s' % ('phstom', 'gmail.com')  #via Python`
 
-*Social:*  [github](http://github.com/phstom) \| [linkedin](http://www.linkedin.com/in/mazhuang) \| [weibo](http://weibo.com/phstom) \| [douban](http://www.douban.com/people/freedim/) \| [blog](https://phstom.github.io/)
+*Social:*  [github](http://github.com/phstom) \|[weibo](http://weibo.com/phstom)  \| [blog](https://phstom.github.io/)
 
 ```c++
 #include <iostream>
