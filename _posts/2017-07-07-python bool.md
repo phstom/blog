@@ -60,4 +60,5 @@ bool()
 参考资料：
 
 [http://www.pythontab.com/html/2013/hanshu_0122/157.html](http://www.pythontab.com/html/2013/hanshu_0122/157.html)
+
 [http://www.jb51.net/article/64516.htm](http://www.jb51.net/article/64516.htm)
