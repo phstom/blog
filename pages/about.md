@@ -8,13 +8,13 @@ permalink: /about/
 
 Pan Haishu
 
-Nanjing, China \| Computer science and technology
+南京, China \| 计算机科学与技术
 
-*Education:* Tianjin University of Technology
+*教育:* 2012 - 2016 天津理工大学
 
-*Contact:* `print '%s@%s' % ('phstom', 'gmail.com')  #via Python`
+*联系:* `print '%s@%s' % ('phstom', 'gmail.com')  #via Python`
 
-*Social:*  [github](http://github.com/phstom) \|[weibo](http://weibo.com/phstom)  \| [blog](https://phstom.github.io/)
+*社交:*  [github](http://github.com/phstom) \|[weibo](http://weibo.com/phstom)  \| [blog](https://phstom.github.io/)
 
 ```c++
 #include <iostream>
